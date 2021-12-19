@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="row" *ngFor="let customer of allCustomers">
+    <div class="col-md-3">
+      {{customer.id}}
+    </div>
+    <div class="col-md-3">
+      {{customer.firstName}} {{customer.lastName}}
+    </div>
+    <div class="col-md-3">
+      {{getCityName(customer.cityId)}}
+    </div>
+    <div class="col-md-3">
+      {{customer.callsTotalTime}}
+    </div>
+  </div>
+</div>

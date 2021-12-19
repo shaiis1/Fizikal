@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "firstName": "Bruce",
+	"lastName": "Willis",
+    "phoneNumbers":["0538096525", "0539375532"],
+    "cityId": 1
+  },
+  {
+    "id": 2,
+    "firstName": "Russell",
+	"lastName": "Crowe",
+    "phoneNumbers":[],
+    "cityId": 3
+  },
+  {
+    "id": 3,
+    "firstName": "Milena",
+	"lastName": "Kunis",
+    "phoneNumbers":["0537104537"],
+	"cityId": 1
+  },
+  {
+    "id": 4,
+    "firstName": "Naomi",
+	"lastName": "Watts",
+    "phoneNumbers":["0534556454"],
+	"cityId": 3
+  },
+  {
+    "id": 5,
+    "firstName": "Orlando",
+	"lastName": "Bloom",
+    "phoneNumbers":["0505104522"],
+	"cityId": 1
+  },
+  {
+    "id": 6,
+    "firstName": "Angelina",
+	"lastName": "Jolie",
+    "phoneNumbers":["0528357357"],
+	"cityId": 4
+  }
+]

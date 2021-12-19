@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Tel Aviv"
+  },
+  {
+    "id": 2,
+    "name": "Eilat"
+  },
+  {
+    "id": 3,
+    "name": "Netanya"
+  },
+  {
+    "id": 4,
+    "name": "Jerusalem"
+  },
+  {
+    "id": 5,
+    "name": "Haifa"
+  }
+]
